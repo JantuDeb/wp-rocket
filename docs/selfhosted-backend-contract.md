@@ -52,7 +52,7 @@ wp-rocket-optimization-backend/
       performance-worker.ts
     services/
       browser/
-        playwright.ts
+        playwright.ts9U9H-96L0Z
         page-loader.ts
       css/
         critical-css.ts
